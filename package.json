@@ -1,0 +1,23 @@
+{
+  "name": "chall11new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alanjose23/chall11new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alanjose23/chall11new/issues"
+  },
+  "homepage": "https://github.com/Alanjose23/chall11new#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
