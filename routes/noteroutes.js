@@ -3,7 +3,7 @@ const path = require("path");
 const router = require('express').Router();
 
 
-
+// sending the html routes to proper html
 router.get('/notes',  (req, res) => {
     res.sendFile(path.join(__dirname, '../public/notes.html'));
   });

@@ -3,7 +3,7 @@ const router = require('express').Router();
 const fs = require('fs');
 const { readAndAppend, readFromFile, writeToFile } = require('../helpers/fsUtils');
 
-
+// read and display data from db json
 router.get('/notes', (req, res) => {
     
     readFromFile('./db/db.json').then((data)=>{
@@ -11,6 +11,8 @@ router.get('/notes', (req, res) => {
     })
 });
 
+
+// add a new note
 router.post('/notes', (req, res) => {
     console.log(req.body);
   
