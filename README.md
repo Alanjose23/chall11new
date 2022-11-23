@@ -16,3 +16,7 @@ run node server.js to run it in your local repo.
 ## Credits
 N/A
 
+## Examples
+![image](https://user-images.githubusercontent.com/112830964/203639687-876b19c1-52ff-486b-b9e4-25732b0d19bd.png)
+
+
