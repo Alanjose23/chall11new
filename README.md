@@ -7,9 +7,9 @@ Notetaking is a nessessity in life, whether you want to be more detail oriented,
 ## link to repo
 https://github.com/Alanjose23/chall11new
 
-link to heroku application
+## link to heroku application
 
-installation guide
+## installation guide
 run node server.js to run it in your local repo.
 
 ## Credits
